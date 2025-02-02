@@ -1,4 +1,4 @@
-package org.example;
+package org.amazons3;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

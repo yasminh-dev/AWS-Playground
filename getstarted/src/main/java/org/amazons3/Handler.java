@@ -1,4 +1,4 @@
-package org.example;
+package org.amazons3;
 
 import software.amazon.awssdk.core.sync.RequestBody;
 import software.amazon.awssdk.services.s3.S3Client;
